@@ -1,4 +1,4 @@
-DOCUMENT = COM_299_Fall_2016_Syllabus
+DOCUMENT = COM_299_Fall_2017_Syllabus
 DICTIONARY = en_US
 
 .DEFAULT_GOAL := pdf
