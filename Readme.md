@@ -20,8 +20,10 @@ For general discussions between students and the course instructor
 
 * <https://auca-sfw.slack.com/messages/com-299-fall-2017>
 
-## Screencast
+## Recordings
 
-View the screen of the instructor's machine
+Previous class recordings
 
-* <https://hangouts.google.com/hangouts/_/auca.kg/com-299>
+### Lectures
+
+* <https://www.youtube.com/playlist?list=PLHcEzCb_lW6f2o3wFfo0N-I_P2opuHM5s>
