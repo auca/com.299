@@ -27,3 +27,7 @@ Previous class recordings
 ### Lectures
 
 * <https://www.youtube.com/playlist?list=PLHcEzCb_lW6f2o3wFfo0N-I_P2opuHM5s>
+
+## Registration
+
+* <https://docs.google.com/spreadsheets/d/1PnxekBNmb-rjEWGNW1U46IkN04gb0IWdBWRWC3oYj8w/edit?usp=sharing>
