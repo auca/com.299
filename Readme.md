@@ -35,3 +35,7 @@ Previous class recordings
 ## Registration
 
 * <https://docs.google.com/spreadsheets/d/1PnxekBNmb-rjEWGNW1U46IkN04gb0IWdBWRWC3oYj8w/edit?usp=sharing>
+
+## Sample Theory Midterm
+
+* <https://docs.google.com/forms/d/e/1FAIpQLScXlFtZ_Zy32nWq_QoeBc1ra9pZTJar3UgMmemHroTv7Uui9Q/viewform?usp=sf_link>
