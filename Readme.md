@@ -40,8 +40,6 @@ Previous class recordings
 
 * <https://docs.google.com/forms/d/e/1FAIpQLScXlFtZ_Zy32nWq_QoeBc1ra9pZTJar3UgMmemHroTv7Uui9Q/viewform?usp=sf_link>
 
-## Practice Midterm
-
 ## Practice Midterm Signup
 
 * <https://docs.google.com/spreadsheets/d/1RZho7d8cw5bRNltJPCK8-1PQh9CU5gvFEyqC0dLkL4s/edit?usp=sharing>
