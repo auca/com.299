@@ -42,10 +42,10 @@ Previous class recordings
 
 ## Practice Midterm
 
-Sign-up
+## Practice Midterm Signup
 
 * <https://docs.google.com/spreadsheets/d/1RZho7d8cw5bRNltJPCK8-1PQh9CU5gvFEyqC0dLkL4s/edit?usp=sharing>
 
-Task List
+## Practice Midterm Task List
 
 * <https://docs.google.com/spreadsheets/d/1BHsLWRDAOx0dzDwGgosS8TZo0Oc_5beiDPIQ9JA5-28/edit?usp=sharing>
