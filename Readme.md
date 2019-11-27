@@ -47,3 +47,7 @@ Previous class recordings
 ## Practice Midterm Task List
 
 * <https://docs.google.com/spreadsheets/d/1BHsLWRDAOx0dzDwGgosS8TZo0Oc_5beiDPIQ9JA5-28/edit?usp=sharing>
+
+## Presentation Signup
+
+* <https://docs.google.com/spreadsheets/d/1tYs-2hRjB4ojtJjeEsvE7T0NlvGlU4ihYcFQfG_ci2U/edit?usp=sharing>
