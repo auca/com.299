@@ -51,3 +51,11 @@ Previous class recordings
 ## Presentation Signup
 
 * <https://docs.google.com/spreadsheets/d/1tYs-2hRjB4ojtJjeEsvE7T0NlvGlU4ihYcFQfG_ci2U/edit?usp=sharing>
+
+## Practice Final Signup
+
+* <https://docs.google.com/spreadsheets/d/17DBoDwTOJmLIMOIoSXuHAbsP34WZh-zJww_6j4rCykU/edit?usp=sharing>
+
+## Practice Final Task List
+
+* <https://docs.google.com/spreadsheets/d/1b1ozJA3hsKj3-L_8U3VdQPru4wzohzsUKQQ-Ys4-eL8/edit?usp=sharing>
