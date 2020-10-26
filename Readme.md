@@ -22,3 +22,13 @@ View previous class recordings
 #### Monday 10:50
 
 * <https://www.youtube.com/playlist?list=PLHcEzCb_lW6eORqeppQ5U7rGjhKr1w9oL>
+
+## Exams
+
+### Practice Midterm Signup
+
+* <https://docs.google.com/spreadsheets/d/12ws7n5nbuMxKNOY3_6C7Zpjk1sgmpDbMZGzs76ywy68>
+
+### Practice Midterm Task List
+
+* <https://docs.google.com/spreadsheets/d/15fmtBl0dmn1Zj4eodgOVjJcRVG7x6bOdhVqGYTRNxXY0>
