@@ -18,10 +18,6 @@ screen. The other paddle can be controlled by a computer or another player.
 Both sides compete to earn eleven points. Points are earned when one fails to
 return the ball to the opponent.
 
-The first task of the project is to recreate the Pong game in the Unity game
-engine. The second task is to modify the Pong gameplay mechanics considerably or
-to reuse it to create a different game such as Breakout or Pinball.
-
 ### Practice #1
 
 ![Practice 1](http://i.imgur.com/TNTxs2s.png)
@@ -59,7 +55,7 @@ angles and try to move the ball in the opposite direction from the side that
 lost the ball the last time. Ensure that the ball cannot tunnel through walls or
 paddles.
 
-### Task #1
+### Project Main Task
 
 ![Task 1, Unity Project](http://i.imgur.com/NHGpEPu.png)
 ![Task 1, Game](http://i.imgur.com/CraJG3p.png)
@@ -76,7 +72,7 @@ match and a new match is automatically started after a short pause.
 your own and with other students. Add icons and a banner to the launcher on
 Windows, macOS, or Linux.
 
-### Task #2
+### Extra (for Bonus Points)
 
 ![Task 2, Breakout](http://i.imgur.com/QT7ZbCp.png)
 
@@ -91,57 +87,22 @@ the game looks and works like a real product ready for release.
 
 ### Grading
 
-* +20 points for Practice #1
-* +20 points for Practice #2
+* +5 points for Practice #1
+* +10 points for Practice #2
 * +10 points for Practice #3
-* +20 points for Task #1
-* +26 points for Task #2
-
-You game will be judged subjectively (as on a real market) by an independent
-third-party user without any experiense in game development or software
-engineering.
-
-* +1 if the user likes how your game looks
-* +3 if he likes to play your game
-
-The total number of points will then be converted into a grade.
-
-* 95%–100%: A
-* 90%–94%: A-
-* 85%–89%: B+
-* 80%–84%: B
-* 75%–79%: B-
-* 70%–74%: C+
-* 65%–69%: C
-* 60%–64%: C-
-* 55%–59%: D+
-* 50%–54%: D
-* 45%–49%: D-
-* Less than 40%: F
+* +10 points for Task #1
+* +10 bonus points for Extra Task
 
 ### Deadlines
 
-You will have three weeks from the announcement date to finish your work.
+You will have time before the Midterm Exam to finish your work.
 
 ### Submission
 
-#### Option #1
+Commit and push your repository through Git. Submit the last commit ID to Canvas
+before the deadline.
 
-Pack you project directory and send it to the instructor.
-
-#### Option #2
-
-Send a link to a shared directory or an archive file with your project on a file
-sharing service like Google Drive or Dropbox.
-
-#### Option #3
-
-Send a link to a publicly available Git repository with your project. Try to use
-Git to store the development history of your project, not just to submit your
-work. Students with properly maintained repositories will get five extra points
-to their grades.
-
-* Use a proper [.gitignore](https://github.com/github/gitignore/blob/master/Unity.gitignore)
-file.
+* Use a proper [.gitignore](https://github.com/github/gitignore/blob/master/Unity.gitignore) file.
 * [Configure](http://www.studica.com/blog/how-to-setup-github-with-unity-step-by-step-instructions)
 Unity to work with Git
+
