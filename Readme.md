@@ -23,6 +23,10 @@ View previous class recordings
 
 * <https://www.youtube.com/playlist?list=PLHcEzCb_lW6eORqeppQ5U7rGjhKr1w9oL>
 
+## Presentations
+
+* <https://docs.google.com/spreadsheets/d/1AK3On1z_DrXOZyR3J7T5K2WG3uy3uiIz4520_jikf7k>
+
 ## Exams
 
 ### Practice Midterm Signup
