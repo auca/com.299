@@ -15,11 +15,10 @@ View previous class recordings
 
 #### Tuesday 10:50
 
-* TBD
+* <https://youtube.com/playlist?list=PLHcEzCb_lW6fb_5IFWHNKjjfpTccPKLZn>
 
 ### Labs
 
 #### Thursday 10:50
 
-* TBD
-
+* <https://youtube.com/playlist?list=PLHcEzCb_lW6c-ncZ0xvdDhacmcyrqeYZQ>
