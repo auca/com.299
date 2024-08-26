@@ -2,28 +2,20 @@
 
 public class BallController : MonoBehaviour {
 
-        public float InputForceScale =
-                10.0f;
+        public float InputForceScale = 10.0f;
 
         private Rigidbody rigidBody;
 
         void Start () {
-                rigidBody =
-                        GetComponent<Rigidbody> ();
+                rigidBody = GetComponent<Rigidbody> ();
         }
 
         void FixedUpdate () {
-                float horizontalAxis =
-                        Input.GetAxis ("Horizontal");
-                float verticalAxis =
-                        Input.GetAxis ("Vertical");
+                float horizontalAxis = Input.GetAxis ("Horizontal");
+                float verticalAxis = Input.GetAxis ("Vertical");
 
-                Vector3 force =
-                        new Vector3 (horizontalAxis, 0.0f, verticalAxis) *
-                                InputForceScale;
-
+                Vector3 force = new Vector3 (horizontalAxis, 0.0f, verticalAxis) * InputForceScale;
                 rigidBody.AddForce (force);
         }
 
 }
-

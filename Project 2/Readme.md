@@ -106,14 +106,3 @@ release.
 ### Deadlines
 
 You will have time before the Final Exam to finish your work.
-
-### Submission
-
-1. In your private course repository that was given to you by the instructor
-   during the lecture, create the path `project-2/`.
-2. Put all the files of your Unity project into the directory. Use a proper
-   [.gitignore](https://github.com/github/gitignore/blob/master/Unity.gitignore)
-   file. [Configure](http://www.studica.com/blog/how-to-setup-github-with-unity-step-by-step-instructions)
-   Unity to work with Git.
-3. Commit and push your repository through Git. Submit the last commit ID to
-   Canvas before the deadline.

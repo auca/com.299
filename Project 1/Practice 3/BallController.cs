@@ -2,10 +2,8 @@
 
 public class BallController : MonoBehaviour {
 
-        public float InputForceScale =
-                10.0f;
-        public float InitialAngle =
-                20.0f;
+        public float InputForceScale = 10.0f;
+        public float InitialAngle = 20.0f;
 
         public AudioClip WallSound;
         public AudioClip PaddleSound;
@@ -14,22 +12,15 @@ public class BallController : MonoBehaviour {
         private Rigidbody rigidBody;
 
         void Start () {
-                audioSource =
-                        GetComponent<AudioSource> ();
+                audioSource = GetComponent<AudioSource> ();
+                rigidBody = GetComponent<Rigidbody> ();
 
-                rigidBody =
-                        GetComponent<Rigidbody> ();
-
-                Vector3 force =
-                        Quaternion.Euler (0.0f, InitialAngle, 0.0f) * Vector3.forward *
-                            InputForceScale;
-
+                Vector3 force = Quaternion.Euler (0.0f, InitialAngle, 0.0f) * Vector3.forward * InputForceScale;
                 rigidBody.AddForce (force);
         }
 
         void OnCollisionEnter(Collision collision) {
-                GameObject gameObject =
-                        collision.gameObject;
+                GameObject gameObject = collision.gameObject;
 
                 if (gameObject.CompareTag ("Wall")) {
                         audioSource.PlayOneShot (WallSound);
@@ -39,4 +30,3 @@ public class BallController : MonoBehaviour {
         }
 
 }
-

@@ -12,21 +12,17 @@ public class GameController : MonoBehaviour {
         private int secondPlayerScoreCounter;
 
         void OnTriggerExit(Collider other) {
-                GameObject gameObject =
-                        other.gameObject;
+                GameObject gameObject = other.gameObject;
 
                 if (gameObject.CompareTag ("Ball")) {
-                        GameObject ball =
-                                gameObject;
+                        GameObject ball = gameObject;
 
                         if (ball.transform.position.z < transform.position.z) {
                                 ++firstPlayerScoreCounter;
-                                firstPlayerScore.text =
-                                        firstPlayerScoreCounter.ToString();
+                                firstPlayerScore.text = firstPlayerScoreCounter.ToString();
                         } else {
                                 ++secondPlayerScoreCounter;
-                                secondPlayerScore.text =
-                                        secondPlayerScoreCounter.ToString();
+                                secondPlayerScore.text = secondPlayerScoreCounter.ToString();
                         }
 
                         Destroy (ball);
@@ -35,4 +31,3 @@ public class GameController : MonoBehaviour {
         }
 
 }
-

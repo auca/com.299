@@ -14,26 +14,21 @@ public class GameController : MonoBehaviour {
         private AudioSource audioSource;
 
         void Start () {
-                audioSource =
-                        GetComponent<AudioSource> ();
+                audioSource = GetComponent<AudioSource> ();
         }
 
         void OnTriggerExit(Collider other) {
-                GameObject gameObject =
-                        other.gameObject;
+                GameObject gameObject = other.gameObject;
 
                 if (gameObject.CompareTag ("Ball")) {
-                        GameObject ball =
-                                gameObject;
+                        GameObject ball = gameObject;
 
                         if (ball.transform.position.z < transform.position.z) {
                                 ++firstPlayerScoreCounter;
-                                firstPlayerScore.text =
-                                        firstPlayerScoreCounter.ToString();
+                                firstPlayerScore.text = firstPlayerScoreCounter.ToString();
                         } else {
                                 ++secondPlayerScoreCounter;
-                                secondPlayerScore.text =
-                                        secondPlayerScoreCounter.ToString();
+                                secondPlayerScore.text = secondPlayerScoreCounter.ToString();
                         }
 
                         audioSource.Play ();
@@ -44,4 +39,3 @@ public class GameController : MonoBehaviour {
         }
 
 }
-
