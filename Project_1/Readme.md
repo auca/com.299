@@ -62,12 +62,6 @@ paddles.
 
 Ensure the following requirement are met.
 
-* Allow to control paddles by moving the mouse up or down.
-* Add a simple AI to control the second paddle to follow the ball.
-* Allow matches with the AI. The match ends when someone gets 11 points first.
-Matches should be time limited. The player with the highest score wins after the
-time limit. A message is displayed to congratulate the player at the end of the
-match and a new match is automatically started after a short pause.
 * Polish your game visually and in terms of gameplay. Play test your game on
 your own and with other students. Add icons and a banner to the launcher on
 Windows, macOS, or Linux.
@@ -87,10 +81,10 @@ the game looks and works like a real product ready for release.
 
 ### Grading
 
-* +5 points for Practice #1
-* +10 points for Practice #2
-* +10 points for Practice #3
-* +10 points for Task #1
+* +1 points for Practice #1
+* +1 points for Practice #2
+* +1 points for Practice #3
+* +13 points for Task #1
 * +10 bonus points for Extra Task
 
 ### Deadlines
