@@ -18,7 +18,7 @@ screen. The other paddle can be controlled by a computer or another player.
 Both sides compete to earn eleven points. Points are earned when one fails to
 return the ball to the opponent.
 
-### Practice #1
+### Practice #1 (Project Part)
 
 ![Practice 1](http://i.imgur.com/TNTxs2s.png)
 
@@ -28,7 +28,7 @@ horizontal and vertical input axes of the engine. The ball should leave a trail
 behind it. The ball should bounce from the walls and slide on the plane without
 losing its speed due to friction or air drag.
 
-### Practice #2
+### Practice #2 (Project Part)
 
 ![Practice 2](http://i.imgur.com/ecQEFjL.png)
 
@@ -41,7 +41,7 @@ paddle that was hit, add a certain amount of force toward that side to the ball
 to give the player additional control. Respawn the ball when it leaves the
 field, add points, and update the score on the screen.
 
-### Practice #3
+### Practice #3 (Project Part)
 
 ![Practice 3](http://i.imgur.com/nLfABtV.png)
 
@@ -66,7 +66,7 @@ Ensure the following requirement are met.
 your own and with other students. Add icons and a banner to the launcher on
 Windows, macOS, or Linux.
 
-### Extra (for Bonus Points)
+### Pong-like Game (Exam Part)
 
 ![Task 2, Breakout](http://i.imgur.com/QT7ZbCp.png)
 
@@ -81,11 +81,13 @@ the game looks and works like a real product ready for release.
 
 ### Grading
 
-* +1 points for Practice #1
-* +1 points for Practice #2
-* +1 points for Practice #3
-* +13 points for Task #1
-* +10 bonus points for Extra Task
+* +3 points for Practice #1
+* +3 points for Practice #2
+* +4 points for Practice #3
+* +5 points for a polished game experience
+* +10 for base gameplay for a Pong-like game
+* +10 for a polished game experience in the Pong-like game
+* +5 for a good 5-minute presentation and demo of the game
 
 ### Deadlines
 
